@@ -1,0 +1,37 @@
+gap  5 frames 106-112: chain drift before pinning  17.6 deg | bridged-vs-COLMAP rotation error mean  8.09 max 13.80 deg | centre error max 1.156 (solved centres 5.969 apart) | turns by sift/ecc/hold 5/0/0
+gap  5 frames 118-124: chain drift before pinning   7.7 deg | bridged-vs-COLMAP rotation error mean  3.51 max  5.72 deg | centre error max 0.576 (solved centres 4.021 apart) | turns by sift/ecc/hold 5/0/0
+gap  5 frames 130-136: chain drift before pinning   2.6 deg | bridged-vs-COLMAP rotation error mean  1.28 max  2.33 deg | centre error max 0.081 (solved centres 0.620 apart) | turns by sift/ecc/hold 5/0/0
+gap  5 frames 142-148: chain drift before pinning   3.9 deg | bridged-vs-COLMAP rotation error mean  0.53 max  0.70 deg | centre error max 0.034 (solved centres 0.299 apart) | turns by sift/ecc/hold 5/0/0
+gap  5 frames 166-172: chain drift before pinning  43.7 deg | bridged-vs-COLMAP rotation error mean 14.33 max 19.76 deg | centre error max 0.233 (solved centres 1.425 apart) | turns by sift/ecc/hold 5/0/0
+gap  5 frames 178-184: chain drift before pinning  18.6 deg | bridged-vs-COLMAP rotation error mean  2.04 max  3.42 deg | centre error max 0.095 (solved centres 0.674 apart) | turns by sift/ecc/hold 5/0/0
+gap  5 frames 190-196: chain drift before pinning  10.7 deg | bridged-vs-COLMAP rotation error mean  2.53 max  3.86 deg | centre error max 0.144 (solved centres 0.671 apart) | turns by sift/ecc/hold 5/0/0
+gap  5 frames 202-208: chain drift before pinning  94.1 deg | bridged-vs-COLMAP rotation error mean 11.00 max 20.31 deg | centre error max 0.139 (solved centres 1.174 apart) | turns by sift/ecc/hold 5/0/0
+gap 10 frames 106-117: chain drift before pinning  34.9 deg | bridged-vs-COLMAP rotation error mean  8.51 max 16.28 deg | centre error max 2.854 (solved centres 8.927 apart) | turns by sift/ecc/hold 10/0/0
+gap 10 frames 118-129: chain drift before pinning   5.5 deg | bridged-vs-COLMAP rotation error mean  3.71 max  5.29 deg | centre error max 1.282 (solved centres 5.378 apart) | turns by sift/ecc/hold 10/0/0
+gap 10 frames 130-141: chain drift before pinning   4.0 deg | bridged-vs-COLMAP rotation error mean  1.23 max  2.90 deg | centre error max 0.180 (solved centres 0.916 apart) | turns by sift/ecc/hold 10/0/0
+gap 10 frames 142-153: chain drift before pinning   5.2 deg | bridged-vs-COLMAP rotation error mean  1.97 max  3.62 deg | centre error max 0.115 (solved centres 0.655 apart) | turns by sift/ecc/hold 10/0/0
+gap 10 frames 166-177: chain drift before pinning  43.1 deg | bridged-vs-COLMAP rotation error mean 18.76 max 28.15 deg | centre error max 0.478 (solved centres 2.218 apart) | turns by sift/ecc/hold 10/0/0
+gap 10 frames 178-189: chain drift before pinning  21.9 deg | bridged-vs-COLMAP rotation error mean  4.26 max  7.88 deg | centre error max 0.175 (solved centres 1.138 apart) | turns by sift/ecc/hold 10/0/0
+gap 10 frames 190-201: chain drift before pinning  35.3 deg | bridged-vs-COLMAP rotation error mean  8.38 max 13.46 deg | centre error max 0.314 (solved centres 1.660 apart) | turns by sift/ecc/hold 10/0/0
+gap 10 frames 202-213: chain drift before pinning  99.7 deg | bridged-vs-COLMAP rotation error mean 29.26 max 49.56 deg | centre error max 0.303 (solved centres 1.959 apart) | turns by sift/ecc/hold 7/3/0
+gap 18 frames 106-125: chain drift before pinning  45.2 deg | bridged-vs-COLMAP rotation error mean  9.44 max 18.15 deg | centre error max 4.569 (solved centres 12.073 apart) | turns by sift/ecc/hold 18/0/0
+gap 18 frames 124-143: chain drift before pinning   1.9 deg | bridged-vs-COLMAP rotation error mean  2.03 max  4.55 deg | centre error max 0.941 (solved centres 2.489 apart) | turns by sift/ecc/hold 18/0/0
+gap 18 frames 178-197: chain drift before pinning  28.0 deg | bridged-vs-COLMAP rotation error mean  6.66 max 10.73 deg | centre error max 0.603 (solved centres 1.688 apart) | turns by sift/ecc/hold 18/0/0
+gap 18 frames 196-215: chain drift before pinning  95.4 deg | bridged-vs-COLMAP rotation error mean 42.17 max 61.63 deg | centre error max 0.769 (solved centres 3.127 apart) | turns by sift/ecc/hold 15/3/0
+gap  5 frames 223-229: chain drift before pinning  33.1 deg | bridged-vs-COLMAP rotation error mean  9.41 max 16.26 deg | centre error max 0.102 (solved centres 0.846 apart) | turns by sift/ecc/hold 3/2/0
+gap  5 frames 235-241: chain drift before pinning   4.6 deg | bridged-vs-COLMAP rotation error mean  1.05 max  1.71 deg | centre error max 0.065 (solved centres 0.660 apart) | turns by sift/ecc/hold 5/0/0
+gap  5 frames 247-253: chain drift before pinning  17.5 deg | bridged-vs-COLMAP rotation error mean  4.88 max  6.52 deg | centre error max 0.277 (solved centres 2.313 apart) | turns by sift/ecc/hold 5/0/0
+gap  5 frames 259-265: chain drift before pinning   8.9 deg | bridged-vs-COLMAP rotation error mean  2.04 max  3.30 deg | centre error max 0.308 (solved centres 2.222 apart) | turns by sift/ecc/hold 5/0/0
+gap  5 frames 271-277: chain drift before pinning   9.3 deg | bridged-vs-COLMAP rotation error mean  2.85 max  4.32 deg | centre error max 0.458 (solved centres 3.425 apart) | turns by sift/ecc/hold 5/0/0
+gap  5 frames 283-289: chain drift before pinning  19.5 deg | bridged-vs-COLMAP rotation error mean  6.25 max  8.52 deg | centre error max 0.381 (solved centres 2.799 apart) | turns by sift/ecc/hold 5/0/0
+gap 10 frames 223-234: chain drift before pinning  35.4 deg | bridged-vs-COLMAP rotation error mean  9.77 max 16.29 deg | centre error max 0.191 (solved centres 1.471 apart) | turns by sift/ecc/hold 8/2/0
+gap 10 frames 235-246: chain drift before pinning   9.1 deg | bridged-vs-COLMAP rotation error mean  2.29 max  3.87 deg | centre error max 0.329 (solved centres 1.424 apart) | turns by sift/ecc/hold 10/0/0
+gap 10 frames 247-258: chain drift before pinning  11.7 deg | bridged-vs-COLMAP rotation error mean  8.83 max 13.82 deg | centre error max 0.600 (solved centres 4.684 apart) | turns by sift/ecc/hold 10/0/0
+gap 10 frames 259-270: chain drift before pinning  11.8 deg | bridged-vs-COLMAP rotation error mean  2.78 max  4.55 deg | centre error max 0.860 (solved centres 2.592 apart) | turns by sift/ecc/hold 10/0/0
+gap 10 frames 271-282: chain drift before pinning   4.3 deg | bridged-vs-COLMAP rotation error mean  6.54 max 12.02 deg | centre error max 0.857 (solved centres 6.442 apart) | turns by sift/ecc/hold 10/0/0
+gap 18 frames 223-242: chain drift before pinning  38.8 deg | bridged-vs-COLMAP rotation error mean 11.58 max 22.37 deg | centre error max 0.327 (solved centres 2.346 apart) | turns by sift/ecc/hold 16/2/0
+gap 18 frames 241-260: chain drift before pinning  18.2 deg | bridged-vs-COLMAP rotation error mean  9.28 max 19.11 deg | centre error max 1.301 (solved centres 6.666 apart) | turns by sift/ecc/hold 18/0/0
+gap 18 frames 259-278: chain drift before pinning  11.3 deg | bridged-vs-COLMAP rotation error mean  5.66 max  7.59 deg | centre error max 3.563 (solved centres 2.336 apart) | turns by sift/ecc/hold 18/0/0
+SUMMARY gap 5: 14 blocks, mean error 4.98 deg, worst 20.31 deg
+SUMMARY gap 10: 13 blocks, mean error 8.18 deg, worst 49.56 deg
+SUMMARY gap 18: 7 blocks, mean error 12.40 deg, worst 61.63 deg
